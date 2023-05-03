@@ -4,7 +4,7 @@ Based on FIR system
 # <span style="color:green"> Welcome Here!</span>
 
 Hello Readers,<br>
- We have done this project with group of 5 members and build the Rest API using spring boot framework  where user data going to persist and user authorization is also there  .<br> I hope you will enjoy the reading….
+ I have done this project Individually and build the Rest API using spring boot framework  where user data going to persist and user authorization is also there  .<br>  I hope you will enjoy the reading….
 
 # <span style="color:blue"> About Website: </span>
 
