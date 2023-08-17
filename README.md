@@ -1,5 +1,5 @@
 # FIR_APP
-Based on the FIR system in this I made the rest API using spring boot all the data will persist when the user registered FIR 
+This project centers around a FIR (First Information Report) system, wherein I have constructed a REST API using the Spring Boot framework. The core functionality involves the persistence of data each time a user registers a FIR.
 
 # <span style="color:green"> Welcome Here!</span>
 
