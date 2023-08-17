@@ -8,12 +8,12 @@ Hello Readers,<br>
 
 
 # <span style="color:blue"> Tech Stack Used: </span>
-Spring Boot
-Spring Data JPA
-MySQL
-Hibernate
-Core Java
-Postman
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Hibernate
+- Core Java
+- Postman
 
 # Features of Application:
 1. Users, police, and police stations can register themselves.
