@@ -43,8 +43,7 @@ This entire journey of making the project was awesome. I have learned lots of th
 
 
 
-<br>
-<br>
+
  
 
 
@@ -53,10 +52,9 @@ This entire journey of making the project was awesome. I have learned lots of th
 </div>
 
 <br>
-<br>
+
  
-<br>
-<br>
+
  
 
 
