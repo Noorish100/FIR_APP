@@ -3,8 +3,10 @@ Based on the FIR system in this I made the rest API using spring boot all the da
 
 # <span style="color:green"> Welcome Here!</span>
 
-Hello Readers,<br>
- I have done this project Individually and built the Rest API using the spring boot framework  where user data going to persist and user authorization is also there .<br>  I hope you will enjoy the reading….
+
+Greetings, Readers,
+
+I am pleased to share that I have successfully completed this project independently. I developed the Rest API using the Spring Boot framework, focusing on the persistence of user data and incorporating user authorization functionalities. I trust that you will find this reading enjoyable and informative.
 
 
 # <span style="color:blue"> Tech Stack Used: </span>
