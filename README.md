@@ -33,17 +33,8 @@ Let us share my experience,<br>
 This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit us to go further. But we will surely improve it during the course of time in the future and add more functionality.
 
 
-## So journey started from here!
-
-</div>
-<br>
-<br>
- 
- 
 
 
-
-</div>
 
 <br>
 <br>
