@@ -4,7 +4,7 @@ Based on the FIR system in this I made the rest API using spring boot all the da
 # <span style="color:green"> Welcome Here!</span>
 
 Hello Readers,<br>
- I have done this project Individually and built the Rest API using the spring boot framework  where user data going to persist and user authorization is also there  .<br>  I hope you will enjoy the reading….
+ I have done this project Individually and built the Rest API using the spring boot framework  where user data going to persist and user authorization is also there .<br>  I hope you will enjoy the reading….
 
 
 # <span style="color:blue"> Tech Stack Used: </span>
@@ -46,7 +46,7 @@ Getting  real-time data and working on it <br>
 
 
 # <span style="color:red">Conclusion: </span>
-I am very thankful to me and my hope. I will look forward to adding some feature and functionality which is revolving in my mind as a expansion of this project.
+I am very thankful to me and my hope. I will look forward to adding some feature and functionality which is revolving in my mind as an expansion of this project.
 
 
 # <span style="color:red"> Thank You For Reading </span>
