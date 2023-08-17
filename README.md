@@ -32,13 +32,6 @@ I have used the sts spring tool platform, Java, spring, spring boot framework, a
 Let us share my experience,<br>
 This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit us to go further. But we will surely improve it during the course of time in the future and add more functionality.
 
-
-
-
- <hr>
-
-
-
 # <span style="color:red">Challenges: </span>
 I have faced a few challenges while working on the project dealing with them, sometimes it takes lots of time but on the other hand, we got some learning from that. some of the challenges are-<br>
 As I am Working alone, building up entity-level relationships takes time to think about and developed the relations between them.<br>
