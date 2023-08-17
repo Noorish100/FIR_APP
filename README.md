@@ -6,10 +6,14 @@ Based on the FIR system in this I made the rest API using spring boot all the da
 Hello Readers,<br>
  I have done this project Individually and built the Rest API using the spring boot framework  where user data going to persist and user authorization is also there  .<br>  I hope you will enjoy the reading….
 
-# <span style="color:blue"> About Website: </span>
 
-It is based on FIR System one can able to claim FIR 
 # <span style="color:blue"> Tech Stack Used: </span>
+Spring Boot
+Spring Data JPA
+MySQL
+Hibernate
+Core Java
+Postman
 
 # Features of Application:
 1. Users, police, and police stations can register themselves.
